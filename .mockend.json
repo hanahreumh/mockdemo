@@ -4,7 +4,7 @@
       "regexp": "https://picsum\\.photos/seed/[0-9]{5}/1920/270"
     },
     "title": "22년 하계휴가 공지(7/26~7/29)"
-    },
+    ,
     "body": {
       "loremParagraphs": {
         "minLength": 10,
